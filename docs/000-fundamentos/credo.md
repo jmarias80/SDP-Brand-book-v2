@@ -2,26 +2,26 @@
 
 ## ¿Qué es?
 
-Es nuestra declaración de creencias más profunda y sentida. El Credo es el conjunto de convicciones innegociables que impulsan y sostienen todo lo que hacemos en Somos del Pueblo. No se trata de un simple manifiesto; son las verdades fundamentales y absolutas en las que nos apoyamos para construir la comunidad, desde la redacción de una simple publicación en redes hasta la organización de un evento masivo. 
+Es nuestra declaración de creencias más profunda y sentida. El Credo es el conjunto de convicciones innegociables que impulsan y sostienen todo lo que hacemos en Somos del Pueblo — desde el texto de una vitrina hasta la forma en que priorizamos a quién ayudamos primero.
 
 ## ¿Por qué existe?
 
-Porque en un mundo digital hiperconectado y lleno de ruido, es muy fácil perder el rumbo o dejarse llevar por tendencias pasajeras. Necesitamos tener meridianamente claro en qué creemos y por qué estamos aquí. 
+Porque es fácil, en el camino, empezar a tratar la causa como un gancho de marketing. El Credo existe para que eso no pase nunca.
 
-El Credo existe para que nunca dudemos de nuestra esencia original. Es nuestra ancla. Existe para que cualquier persona que se asome a nuestra puerta sepa exactamente qué defendemos a capa y espada, y qué actitudes no estamos dispuestos a transar bajo ninguna circunstancia. Cuando los momentos se ponen difíciles, el Credo es el recordatorio de por qué vale la pena seguir empujando.
+Creemos que ninguna mujer emprende en el vacío. Que detrás de cada aliado hay una familia, no una excepción. Que el precio no debería distinguir entre quién paga primero y quién paga después — pero que la fila sí puede reconocer quién más lo necesita. Que un negocio no debería depender de una sola persona para sobrevivir.
 
 ## ¿Cómo lo vivimos?
 
-Lo leemos, lo sentimos, lo interiorizamos y lo defendemos en la práctica. No es un texto bonito escrito para colgar en la pared de una oficina virtual ni para quedar bien en una presentación; es un filtro duro para nuestras acciones diarias. 
+Si una decisión, una alianza o un nuevo producto contradice alguna de estas convicciones, no lo hacemos — sin importar cuánto pueda rentar a corto plazo.
 
-Si una decisión, una potencial alianza o un nuevo proyecto va en contra de alguna frase de nuestro credo, simplemente no lo hacemos, sin importar lo tentador o rentable que pueda parecer a corto plazo. Es la vara con la que medimos nuestra integridad y la coherencia de nuestros actos.
+No prometemos que el pago de una membresía va directo a una causa externa. Decimos la verdad: sostiene la plataforma, y esa sostenibilidad es lo que después nos permite contratar más manos para seguir construyendo esto junto a nuestras aliadas.
 
 ## Ejemplos
 
-- **Alineación de aliados:** Cuando una marca nos propone un patrocinio que choca con nuestra forma inclusiva de ver el mundo, usamos el Credo para decir que no con firmeza, sabiendo que estamos protegiendo a nuestra gente.
-- **Momentos de duda:** En los momentos de estrés, crisis o fatiga dentro del equipo central, volvemos a leerlo en nuestras reuniones internas para recargar baterías y recordar por qué empezamos este proyecto.
-- **El primer saludo:** Al darle la bienvenida a un nuevo miembro o embajador, le compartimos el Credo para asegurarnos de que vibra en nuestra misma sintonía antes de asumir responsabilidades.
+- **Alineación de aliados:** si un patrocinio o una alianza nos pide tratar a nuestros aliados como simple inventario de contenido, decimos que no.
+- **Priorización, no exclusión:** cuando priorizamos a una mujer que lidera sola o en pareja, no cerramos la puerta a nadie más — reconocemos que ella suele ser quien menos veces recibió esa prioridad antes.
+- **El primer saludo:** cuando un nuevo aliado se vincula, le contamos esto mismo — no para venderle una causa, sino para que sepa exactamente qué defendemos.
 
 ## Resumen
 
-El Credo es el corazón ideológico de Somos del Pueblo. Es la declaración firme, clara y pública de nuestras verdades absolutas, dándonos el coraje, el propósito y la claridad para actuar siempre con integridad, transparencia y muchísima autenticidad en cada paso que damos hacia el futuro.
+El Credo de Somos del Pueblo es el corazón ideológico del proyecto: la convicción de que nadie sale adelante solo, que la mujer que pone la cara merece ir primero en la fila, y que la honestidad sobre a dónde va cada peso vale más que cualquier promesa bonita.
