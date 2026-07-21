@@ -34,13 +34,26 @@
 - **@pixelesdepueblo** — contenido de emprendimiento/comunidad, incluye la docuserie *Temporada 0*. Mismas plataformas, canal de YouTube compartido con @arescloudco en playlists separadas.
 - **Dev.to** — solo contenido técnico en español, público distinto (comunidad técnica LATAM).
 
+## Camino organizacional (reemplaza cualquier mención anterior de "S.A.S. → BIC")
+
+⚠️ La condición BIC está **descartada, no aplazada**. La razón es de fondo: declarar un beneficio legal antes de poder auditarlo con evidencia real no es transparencia, es una promesa sin sustento. El compromiso social se sostiene por decisión voluntaria de la Junta, no por obligación legal declarada.
+
+El camino real es:
+
+- **Fase A — Mejorar el servicio:** contratar personas que apoyen a los aliados con publicaciones, y sobre todo, que les enseñen a hacerlo ellos mismos. No es dar el pez cada día. Es enseñar a pescar.
+- **Fase B — Autosostenibilidad:** que la plataforma cubra su propia factura de infraestructura, pautas y dominio, sin depender de aportes externos recurrentes.
+- **Fase C — Fundación:** una vez haya estabilización operativa y capacidad real de generar empleo, se impulsa una fundación asociada, independiente, con personería propia — por vocación, no por obligación.
+- **Fase D (fase final):** solo entonces, la causa de geriátricos y refugios de animales — el destino social original, ahora reubicado al final del camino, no al principio.
+
 ## Estados de fase (no anunciar lo que aún no aplica)
 
 | Elemento | Estado actual |
 |---|---|
-| Alianzas de cuidado infantil (Círculos de Cuidado, ICBF, Secretaría de las Mujeres) | ❌ No firmadas — Fase 2, no publicar |
+| Alianzas de cuidado infantil (Círculos de Cuidado, ICBF, Secretaría de las Mujeres) | ❌ No firmadas — no publicar |
 | Automatización de venta WhatsApp + n8n | ❌ No activa — foco actual es visibilidad + web + pautas |
-| Condición BIC | ❌ No adoptada — política voluntaria bajo S.A.S. simple |
+| Condición BIC | ❌ Descartada explícitamente — no es un paso futuro, no mencionarla como plan |
+| Fundación asociada | ❌ No existe — condicionada a Fase C (estabilización + generación de empleo) |
+| Fase A (contratar/enseñar a aliados) | 🟡 Planeada, no iniciada |
 | Precio único de aliados + prioridad de fila | ✅ Activo |
 | Facilidad de pago en 2 cuotas para aliados | ✅ Activo |
 | Docuserie Temporada 0 | 🟡 En producción, sin grabar (a la fecha del último ajuste de este documento) |

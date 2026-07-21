@@ -22,7 +22,14 @@ Estamos en **Fase 1**: construir imagen, historia y credibilidad. Todavía **no 
 
 ## Estructura societaria (resumen)
 
-Arrancamos como **S.A.S. simple**, no BIC. La condición BIC (Ley 1901 de 2018) queda para una reforma estatutaria futura, cuando el excedente sea real y sostenible — no es una obligación legal todavía, es una política voluntaria de la Junta. Dos socios fundadores: uno controla la estrategia sin exposición pública necesaria (Presidente de Junta), el otro es la cara visible como Representante Legal.
+Arrancamos como **S.A.S. simple**. La condición BIC (Ley 1901 de 2018) está **descartada, no aplazada** — la sociedad decidió explícitamente no adoptarla, porque declarar un beneficio legal antes de poder auditarlo no es transparencia, es una promesa sin sustento. El compromiso social se sostiene por decisión voluntaria de la Junta, siguiendo un camino propio en tres fases:
+
+- **Fase A — Mejorar el servicio:** contratar personas que apoyen a los aliados con publicaciones, enseñándoles a hacerlo ellos mismos (enseñar a pescar, no dar el pez).
+- **Fase B — Autosostenibilidad:** la plataforma cubre su propia factura, pautas y dominio.
+- **Fase C — Fundación:** con estabilización y generación de empleo real, se impulsa una fundación asociada independiente, por vocación.
+- **Fase final:** solo entonces, la causa de geriátricos y refugios de animales.
+
+Dos socios fundadores: uno controla la estrategia sin exposición pública necesaria (Presidente de Junta), el otro es la cara visible como Representante Legal.
 
 ## Voz de marca
 
